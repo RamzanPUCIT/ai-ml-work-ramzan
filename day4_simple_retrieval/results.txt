@@ -1,0 +1,12 @@
+Query: What are embeddings?
+Retrieved Document:
+Embeddings convert text into vectors representing meaning.
+---
+Query: How are images generated?
+Retrieved Document:
+Diffusion models generate images by gradually removing noise.
+---
+Query: What is Python used for?
+Retrieved Document:
+Python is widely used for machine learning and data science.
+---

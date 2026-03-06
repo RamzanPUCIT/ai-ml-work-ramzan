@@ -1,0 +1,5 @@
+What are embeddings?
+
+How are images generated?
+
+What is Python used for?
