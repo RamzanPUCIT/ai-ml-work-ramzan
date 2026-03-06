@@ -1,0 +1,9 @@
+Transformers use self-attention for sequence modeling.
+
+Diffusion models generate images by gradually removing noise.
+
+Embeddings convert text into vectors representing meaning.
+
+Python is widely used for machine learning and data science.
+
+Space exploration helps scientists understand the universe.
