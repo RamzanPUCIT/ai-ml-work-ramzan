@@ -1,1 +1,6 @@
 
+What is 12 * 7?
+What is 100 / 5?
+Explain what embeddings are.
+What is 9 * 9?
+What is 50 + 120?
